@@ -15,10 +15,10 @@ public class Lab011 {
         // byte ( -128 to 127)
 
         byte b = -128; // Size, Range side of byte = -128 to 127
-        // byte b2 = -200;
+        //byte b2 = -200;
         byte b3 = -1;
         byte b4 = 127;
-        b4 = b4+1;
+        //b4 = b4+1;
 
         short s = -31567;
         short s2 = -1;

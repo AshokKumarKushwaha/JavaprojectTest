@@ -22,7 +22,7 @@ public class Lab011 {
 
         short s = -31567;
         short s2 = -1;
-//        short s3 = 33678;
+  //short s3 = 33678;
 
 
         // Interview Q -
